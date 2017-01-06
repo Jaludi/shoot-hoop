@@ -6,9 +6,12 @@ public class BallLauncher : MonoBehaviour {
     public GameObject ballPrefab;
     public float speed;
     Camera cam;
+    ScoreKeeper sK;
+
     // Use this for initialization
     void Start () {
         cam = GetComponentInChildren<Camera>();
+        sK = FindObjectOfType<ScoreKeeper>();
     }
 	
 	// Update is called once per frame
@@ -17,7 +20,7 @@ public class BallLauncher : MonoBehaviour {
         {
             
             InstBall();
-
+            sK.shots++;
         }
 	}
     private void InstBall()
