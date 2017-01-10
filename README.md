@@ -9,7 +9,7 @@ I am trying to update this game on a least 2-3 day basis, i am really excited to
 
 The core game is mostly ready, i just need to fix the lighting, sounds, help with testing and setting it up on multiple VR devices.
 
-# about the game
+# About the game
 Shoot Hoop is supposed to be a first person basketball game available on PC and VR devices. Your shot attempts are counted and your points are added up and you are timed. Created by Mohammed Jaludi.
 
 # How to play
