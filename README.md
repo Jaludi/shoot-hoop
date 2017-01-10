@@ -18,7 +18,7 @@ Controlls are simple: Mouse (or headset) controlls field of view and aim directi
 
 # Installation
 
-Download The contents of the latest version folder ( .exe and .dat files) and have fun!
+Download The contents of the latest version folder ( .exe file and _data folder) and have fun!
 
 # Contact 
 
